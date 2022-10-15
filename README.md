@@ -3,5 +3,5 @@
 This is a chrome extension which completes your udemy course and gets you the certificate.
 <h2>Installation Guide</h2>
 <ul>
-  <li>Download the code as zip <br><img src="https://sm.pcmag.com/pcmag_uk/review/u/udemy/udemy_z2kb.jpg" height="100"></li>
+  <li>Download the code as zip <br><img src="https://i.ibb.co/dMFzycF/step1.png" height="200"></li>
   
