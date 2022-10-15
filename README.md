@@ -16,7 +16,7 @@ This is a chrome extension which completes your udemy course and gets you the ce
  
  <h2>Usage</h2>
 <ul>
-  <li>Go to udemy and go to any of the course you have bought and then click on the extension and run it <br><img src="https://i.ibb.co/dMFzycF/step1.png" height="200"></li>
+  <li>Go to udemy and go to any of the course you have bought and then click on the extension and run it <br><img src="https://i.ibb.co/nw3X0jk/ezgif-com-gif-maker.gif" ></li>
 
  </ul>
   
